@@ -1,0 +1,338 @@
+Extracts of publications- extract only; for full publication, check the editors
+Published: 30 October 2013 – SHI ZHENGLI
+Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor
+Xing-Yi Ge, Jia-Lu Li, Xing-Lou Yang, Aleksei A. Chmura, Guangjian Zhu, Jonathan H. Epstein, Jonna K. Mazet, Ben Hu, Wei Zhang, Cheng Peng, Yu-Ji Zhang, Chu-Ming Luo, Bing Tan, Ning Wang, Yan Zhu, Gary Crameri, Shu-Yi Zhang, Lin-Fa Wang, Peter Daszak & Zheng-Li Shi 
+Nature volume 503, pages535–538(2013)
+Abstract
+The 2002–3 pandemic caused by severe acute respiratory syndrome coronavirus (SARS-CoV) was one of the most significant public health events in recent history1. An ongoing outbreak of Middle East respiratory syndrome coronavirus2 suggests that this group of viruses remains a key threat and that their distribution is wider than previously recognized. Although bats have been suggested to be the natural reservoirs of both viruses3,4,5, attempts to isolate the progenitor virus of SARS-CoV from bats have been unsuccessful. Diverse SARS-like coronaviruses (SL-CoVs) have now been reported from bats in China, Europe and Africa5,6,7,8, but none is considered a direct progenitor of SARS-CoV because of their phylogenetic disparity from this virus and the inability of their spike proteins to use the SARS-CoV cellular receptor molecule, the human angiotensin converting enzyme II (ACE2)9,10. Here we report whole-genome sequences of two novel bat coronaviruses from Chinese horseshoe bats (family: Rhinolophidae) in Yunnan, China: RsSHC014 and Rs3367. These viruses are far more closely related to SARS-CoV than any previously identified bat coronaviruses, particularly in the receptor binding domain of the spike protein. Most importantly, we report the first recorded isolation of a live SL-CoV (bat SL-CoV-WIV1) from bat faecal samples in Vero E6 cells, which has typical coronavirus morphology, 99.9% sequence identity to Rs3367 and uses ACE2 from humans, civets and Chinese horseshoe bats for cell entry. Preliminary in vitro testing indicates that WIV1 also has a broad species tropism. Our results provide the strongest evidence to date that Chinese horseshoe bats are natural reservoirs of SARS-CoV, and that intermediate hosts may not be necessary for direct human infection by some bat SL-CoVs. They also highlight the importance of pathogen-discovery programs targeting high-risk wildlife groups in emerging disease hotspots as a strategy for pandemic preparedness.
+
+We conducted a 12-month longitudinal survey (April 2011–September 2012) of SL-CoVs in a colony of Rhinolophus sinicus at a single location in Kunming, Yunnan Province, China (Extended Data Table 1). A total of 117 anal swabs or faecal samples were collected from individual bats using a previously published method5,14. A one-step reverse transcription (RT)-nested PCR was conducted to amplify the RNA-dependent RNA polymerase (RdRP) motifs A and C, which are conserved among alphacoronaviruses and betacoronaviruses15.
+Twenty-seven of the 117 samples (23%) were classed as positive by PCR and subsequently confirmed by sequencing. The species origin of all positive samples was confirmed to be R. sinicus by cytochrome b sequence analysis, as described previously16. A higher prevalence was observed in samples collected in October (30% in 2011 and 48.7% in 2012) than those in April (7.1% in 2011) or May (7.4% in 2012) (Extended Data Table 1). Analysis of the S protein RBD sequences indicated the presence of seven different strains of SL-CoVs (Fig. 1a and Extended Data Figs 1 and 2). In addition to RBD sequences, which closely matched previously described SL-CoVs (Rs672, Rf1 and HKU3)5,8,17,18, two novel strains (designated SL-CoV RsSHC014 and Rs3367) were discovered. Their full-length genome sequences were determined, and both were found to be 29,787 base pairs in size (excluding the poly(A) tail). The overall nucleotide sequence identity of these two genomes with human SARS-CoV (Tor2 strain) is 95%, higher than that observed previously for bat SL-CoVs in China (88–92%)5,8,17,18 or Europe (76%)6 (Extended Data Table 2 and Extended Data Figs 3 and 4). Higher sequence identities were observed at the protein level between these new SL-CoVs and SARS-CoVs (Extended Data Tables 3 and 4). To understand the evolutionary origin of these two novel SL-CoV strains, we conducted recombination analysis with the Recombination Detection Program 4.0 package19 using available genome sequences of bat SL-CoV strains (Rf1, Rp3, Rs672, Rm1, HKU3 and BM48-31) and human and civet representative SARS-CoV strains (BJ01, SZ3, Tor2 and GZ02).
+
+Despite the rapid accumulation of bat CoV sequences in the last decade, there has been no report of successful virus isolation6,22,23. We attempted isolation from SL-CoV PCR-positive samples. Using an optimized protocol and Vero E6 cells, we obtained one isolate which caused cytopathic effect during the second blind passage. Purified virions displayed typical coronavirus morphology under electron microscopy (Fig. 2). 
+ 
+Virions from a 10-ml culture were collected, fixed and concentrated/purified by sucrose gradient centrifugation. The pelleted viral particles were suspended in 100 μl PBS, stained with 2% phosphotungstic acid (pH 7.0) and examined directly using a Tecnai transmission electron microscope (FEI) at 200 kV.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Hu et al. Virology Journal (2015) SHI ZHENGLI
+12:221 DOI 10.1186/s12985-015-0422-1
+Bat origin of human coronaviruses
+Ben Hu1, Xingyi Ge1, Lin-Fa Wang2 and Zhengli Shi1* Correspondence: zlshi@wh.iov.cn
+1Key Laboratory of Special Pathogens and Center for Emerging Infectious
+Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China
+Abstract
+Bats have been recognized as the natural reservoirs of a large variety of viruses. Special attention has been paid to bat coronaviruses as the two emerging coronaviruses which have caused unexpected human disease outbreaks in the 21st century, Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) and Middle East Respiratory Syndrome Coronavirus (MERS-CoV), are suggested to be originated from bats. Various species of horseshoe bats in China have been found to harbor genetically diverse SARS-like coronaviruses. Some strains are highly similar to SARS-CoV even in the spike protein and are able to use the same receptor as SARS-CoV for cell entry. On the other hand, diverse coronaviruses phylogenetically related to MERS-CoV have been discovered worldwide in a wide range of bat species, some of which can be classified to the same coronavirus species as MERS-CoV. Coronaviruses genetically related to human coronavirus 229E and NL63 have been detected in bats as well. Moreover, intermediate hosts are believed to play an important role in the transmission and emergence of these coronaviruses from bats to humans. 
+
+Understanding the bat origin of human coronaviruses is helpful for the prediction and prevention of another pandemic emergence in the future.
+
+During our longitudinal surveillance at a Rhinolophus sinicus colony in Yunnan Province over the years, a major breakthrough came in 2013 when diverse SLCoVs were discovered in the single colony [53]. In this colony, there were at least 7 different strains related to SARS-CoV, HKU3, Rs672 or Rf1, based on analysis of the region corresponding to SARS-CoV RBD.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Nat Med. 2015 December ; 21(12): 1508–1513. doi:10.1038/nm.3985. SHI ZHENG LI RALPH S BARIC 
+A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence
+Vineet D Menachery1, Boyd L Yount Jr1, Kari Debbink1,2, Sudhakar Agnihothram3, Lisa E Gralinski1, Jessica A Plante1, Rachel L Graham1, Trevor Scobey1, Xing-Yi Ge4, Eric F Donaldson1, Scott H Randell5,6, Antonio Lanzavecchia7, Wayne A Marasco8,9, Zhengli-Li Shi4 & Ralph S Baric1,2
+
+1Departments of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA 2Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA 3National Center for Toxicological Research, Food and Drug Administration, Jefferson, AR, USA 4Department of Cell Biology and Physiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA 5Marsico Lung Institute/Cystic Fibrosis Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA 6Institute for Research in Biomedicine, Bellinzona, Switzerland Institute of Microbiology, ETH Zurich, Zurich, Switzerland 7Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute; Department of Medicine, Harvard Medical School, Boston Massachusetts, USA 8Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China
+
+ The emergence of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome (MERS)-CoV underscores the threat of cross-species transmission events leading to outbreaks in humans. Here we examine the disease potential of a SARS-like virus, SHC014-CoV, which is currently circulating in Chinese horseshoe bat populations1. Using the SARS-CoV reverse genetics system2, we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone. The results indicate that group 2b viruses encoding the SHC014 spike in a wild-type backbone can efficiently use multiple orthologs of the SARS receptor human angiotensin converting enzyme II (ACE2), replicate efficiently in primary human airway cells and achieve in vitro titers equivalent to epidemic strains of SARS-CoV. Additionally, in vivo experiments demonstrate replication of the chimeric virus in mouse lung with notable pathogenesis. Evaluation of available SARS-based immune-therapeutic and prophylactic modalities revealed poor efficacy; both monoclonal antibody and vaccine approaches failed to neutralize and protect from infection with CoVs using the novel spike protein. On the basis of these findings, we synthetically re-derived an infectious full-length SHC014 recombinant virus and demonstrate robust viral replication both in vitro and in vivo. Our work suggests a potential risk of SARS-CoV re-emergence from viruses currently circulating in bat populations.
+This hypothesis is illustrated by the ability of a chimeric virus containing the SHC014 spike in a SARS-CoV backbone to cause robust infection in both human airway cultures and in mice without RBD adaptation. Coupled with the observation of previously identified pathogenic CoV back¬bones3,20, our results suggest that the starting materials required for SARS-like emergent strains are currently circulating in animal reservoirs. Notably, although full-length SHC014-CoV probably requires additional backbone adaption to mediate human disease, the documented high-frequency recombination events in CoV families underscores the possibility of future emergence and the need for further preparation.
+To date, genomics screens of animal populations have prima¬rily been used to identify novel viruses in outbreak settings21. The approach here extends these data sets to examine questions of viral emergence and therapeutic efficacy. We consider viruses with the SHC014 spike a potential threat owing to their ability to replicate in primary human airway cultures, the best available model for human disease.
+On the basis of previous models of emergence (Fig. 4a,b), the creation of chimeric viruses such as SHC014-MA15 was not expected to increase pathogenicity. Although SHC014-MA15 is attenuated relative to its parental mouse-adapted SARS-CoV, simi¬lar studies examining the pathogenicity of CoVs with the wild-type Urbani spike within the MA15 backbone showed no weight loss in mice and reduced viral replication23. Thus, relative to the Urbani spike–MA15 CoV, SHC014-MA15 shows a gain in pathogenesis (Fig. 1). On the basis of these findings, scientific review panels may deem similar studies building chimeric viruses based on circulating strains too risky to pursue, as increased pathogenicity in mammalian models cannot be excluded. Coupled with restrictions on mouse-adapted strains and the development of monoclonal antibodies using escape mutants, research into CoV emergence and therapeutic effi¬cacy may be severely limited moving forward. Together, these data and restrictions represent a crossroads of GOF research concerns; the potential to prepare for and mitigate future outbreaks must be weighed against the risk of creating more dangerous pathogens.
+In developing policies moving forward, it is important to consider the value of the data generated by these studies and whether these types of chimeric virus studies warrant  further investigation versus the inherent risks involved.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+NATURE | NEWS
+Engineered bat virus stirs debate over risky research
+Lab-made coronavirus related to SARS can infect human cells. 
+12 November 2015
+An experiment that created a hybrid version of a bat coronavirus — one related to the virus that causes SARS (severe acute respiratory syndrome) — has triggered renewed debate over whether engineering lab variants of viruses with possible pandemic potential is worth the risks. In an article published in Nature Medicine 1 on 9 November, scientists investigated a virus called SHC014, which is found in horseshoe bats in China. The researchers created a chimaeric virus, made up of a surface protein of SHC014 and the backbone of a SARS virus that had been adapted to grow in mice and to mimic human disease. The chimaera infected human airway cells — proving that the surface protein of SHC014 has the necessary structure to bind to a key receptor on the cells and to infect them. It also caused disease in mice, but did not kill them.
+Although almost all coronaviruses isolated from bats have not been able to bind to the key human receptor, SHC014 is not the first that can do so. In 2013, researchers reported this ability for the first time in a different coronavirus isolated from the same bat population2. The findings reinforce suspicions that bat coronaviruses capable of directly infecting humans (rather than first needing to evolve in an intermediate animal host) may be more common than previously thought, the researchers say. But other virologists question whether the information gleaned from the experiment justifies the potential risk.
+Although the extent of any risk is difficult to assess, Simon Wain-Hobson, a virologist at the  Pasteur Institute in Paris, points out that the researchers have created a novel virus that “grows remarkably well” in human cells. “If the virus escaped, nobody could predict the trajectory,” he says.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Journal of Virology-2016  SHI ZHENGLI
+Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus
+Xing-Lou Yang,a Ben Hu,a Bo Wang,a Mei-Niang Wang,a Qian Zhang,a Wei Zhang,a Li-Jun Wu,a Xing-Yi Ge,a Yun-Zhi Zhang,b Peter Daszak,c Lin-Fa Wang,d Zheng-Li Shia
+Key Laboratory of Special Pathogens and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Chinaa; Yunnan
+Institute of Endemic Diseases Control and Prevention, Dali, Chinab; EcoHealth Alliance, New York, New York, USAc; Program in Emerging Infectious Diseases, Duke-NUS
+Graduate Medical School, Singapore
+
+We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Cell entry and susceptibility studies indicated that this virus can use ACE2 as a receptor and infect animal and human cell lines. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
+
+Here we report the isolation of a new SL-CoV strain, named bat SL-CoV WIV16. SL-CoV WIV16 was isolated from a single fecal sample of Rhinolophus sinicus, which was collected in Kunming, Yunnan Province, in July 2013
+The conserved transcriptional regulatory sequence was identified upstream of ORFx, indicating that this is likely to be a potential functional gene. The overall nucleotide sequence of WIV16 has 96% identity (higher than that of any previously reported bat SL-CoVs) to human and civet SARS-CoVs (Table 1) (4,–6, 8,–13). A detailed comparison of protein sequences between SARS-CoV GZ02, a strain from an early-phase patient, and all reported bat SL-CoVs indicated that WIV16 is the closet progenitor of the SARS-CoV in most proteins, particularly in the S protein (Table 1).
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Virologica Sinica (2018) 33:104–107 www.virosin.org SHI ZHENGLI
+https://doi.org/10.1007/s12250-018-0012-7
+Serological Evidence of Bat SARS-Related Coronavirus Infection in Humans, China
+Ning Wang1,2 Shi-Yue Li3 Xing-Lou Yang1 Hui-Min Huang3 Yu-Ji Zhang1 Hua Guo1,2 Chu-Ming Luo1,2 Maureen Miller4 Guangjian Zhu4 Aleksei A. Chmura4 Emily Hagan4 Ji-Hua Zhou5 Yun-Zhi Zhang5,6 Lin-Fa Wang7 Peter Daszak4 Zheng-Li Shi1
+Received: 21 November 2017 / Accepted: 8 January 2018 / Published online: 2 March 2018
+_ Wuhan Institute of Virology, CAS and Springer Nature Singapore Pte Ltd. 2018
+Subsequent work identified genetically diverse SARSr-CoVs in Chinese horseshoe bats (Rhinolophus sinicus) in a county of Yunnan Province, China and provided strong evidence that bats are the natural reservoir of SARS-CoV (Ge et al. 2013; Li et al. 2005; Yang et al. 2016). Since then, diverse SARS-related coronaviruses (SARSr-CoVs) have been detected and reported in bats in different regions globally (Hu et al. 2015). Importantly, SARSr-CoVs that use the SARS-CoV receptor, angiotensin converting enzyme 2 (ACE2) have been isolated (Ge et al. 2013). These results indicate that some SARSr-CoVs may have high potential to infect human cells, without the necessity for an intermediate host. However, to date, no evidence of direct transmission of SARSr-CoVs from bats to people has been reported.
+
+In this study, we performed serological surveillance on people who live in close proximity to caves where bats that carry diverse SARSr-CoVs roost. In October 2015, we collected serum samples from 218 residents in four villages in Jinning County, Yunnan province, China (Fig. 1A), located 1.1–6.0 km from two caves (Yanzi and Shitou). We have been conducting longitudinal molecular surveillance of bats for CoVs in these caves since 2011 and have found that they are inhabited by large numbers of bats including Rhinolophus spp., a major reservoir of SARSr-CoVs. This region was not involved in the 2002–2003 SARS outbreaks and none of the subjects exhibited any evident respiratory illness during sampling. Among those sampled, 139 are female and 79 male, and the median age is 48 (range 12–80). Occupational data were obtained for 208 (95.4%) participants: 85.3% farmers and 8.7% students. Most (81.2%) kept or owned livestock or pets, and the majority (97.2%) had a history of exposure to or contact with livestock or wild animals. Importantly, 20 (9.1%) participants witnessed bats flying close to their houses, and one had handled a bat corpse. As a control, we also collected 240 serum samples from random blood donors in 2015 in Wuhan, Hubei Province more than 1000 km away from Jinning (Fig. 1A) and where inhabitants have a much lower likelihood of contact with bats due to its urban setting.
+The demography and travel histories of the six positive individuals (four male, two female) are as follows. Two males (JN162, 45 years old, JN129, 51 years old) are from the Dafengkou village; two males (JN117, 49 years old, JN059, 57 years old) from Lvxi village; and two females (JN053, JN041, both 55 years old), from Tianjing village. In the 12 months prior to the sampling date, JN041 was the only individual who travelled outside of Yunnan, to Shenzhen, a city 1400 km away from her home village (Fig. 1A). JN053 and JN059 had travelled to another county 1.4 km away from their village. JN162 had travelled to Kunming, the capital of Yunnan, 63 km away. JN129 and JN117 had never left the village. It is worth noting that all of them had observed bats flying in their villages.
+
+Our study provides the first serological evidence of likely human infection by bat SARSr-CoVs or, potentially, related viruses. The lack of prior exposure to SARS patients by the people surveyed, their lack of prior travel to areas heavily affected by SARS during the outbreak, and the rapid decline of detectable antibodies to SARS-CoV in recovered patients within 2–3 years after infection strongly suggests that positive serology obtained in this study is not due to prior infection with SARS-CoV (Wu et al. 2007). The 2.7% seropositivity for the high risk group of residents living in close proximity to bat colonies suggests that spillover is a relatively rare event, however this depends on how long antibodies persist in people, since other individuals may have been exposed and antibodies waned.
+During questioning, none of the 6 seropositive subjects could recall any clinical symptoms in the past 12 months, suggesting that their bat SARSr-CoV infection either occurred before the time of sampling, or that infections were subclinical or caused only mild symptoms. Our previous work based on cellular and humanized mouse infection studies suggest that these viruses are less virulent than SARS-CoV (Ge et al. 2013; Menachery et al. 2016; Yang et al. 2016). Masked palm civets appeared to play a role as intermediate hosts of SARS-CoV in the 2002–2003 outbreak (Guan et al. 2003). However, considering that these individuals have a high chance of direct exposure to bat secretion in their villages, this study further supports the notion that some bat SARSr-CoVs are able to directly infect humans without intermediate hosts, as suggested by receptor entry and animal infection studies (Menachery et al. 2016).
+The failure of these NP ELISA positive sera to either neutralize live virus or react with RBD proteins in Western blot could be explained by at least two hypotheses. First, the immune response to the bat SARSr-CoV S protein may be weaker than that to the NP protein or may wane more rapidly, especially in subclinical infections, resulting in antibody levels is too low to be detected by our assays. Secondly, other bat SARSr-CoV variants may be circulating in bats in these villages that have highly divergent S proteins and have not yet been detected in our surveillance studies.
+
+Coronaviruses are known to have a high mutation rate during replication and are prone to recombination if different viruses infect the same individual (Knipe et al. 2013). From our previous studies of bat SARSr-CoVs in the two caves near these villages, we have found genetically highly diverse bat SARSr-CoVs and evidence of frequent coinfection of two or more different SARSr-CoVs in the same bat (Ge et al. 2013). Our current study suggests that our surveillance is not exhaustive, as one would have expected, and that further, more extensive surveillance in this region is warranted. It might also be prudent to combine serological surveillance with molecular surveillance of bats in future, despite the technological challenges that this represents.
+
+From our longitudinal surveillance of bat SARS-like coronavirus (SL-CoV) in a single bat colony of the species Rhinolophus sinicus in Kunming, Yunnan Province, China, we found a high prevalence of diverse SL-CoVs (6). Whole-genome sequence comparison revealed that these SL-CoVs have 78% to 95% nucleotide sequence identities to SARS-CoV, with the major differences located in the spike protein (S) genes and the region of open reading frame 8 (ORF8). We recently isolated a bat SL-CoV strain (WIV1) and constructed an infectious clone of another strain (SHC014); significantly, these strains are closely related toSARS-CoV and capable of using the same cellular receptor (angiotensin-converting enzyme 2 [ACE2]) as SARS-CoV (6, 7). Despite the high similarity in genomic sequences and receptor usage of these two strains, there is still some difference between the N-terminal domains of the S proteins of SARS-CoV and other SL-CoVs, indicating that other unknown SL-CoVs are circulating in bats.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Review 
+Received: 29 January 2019; Accepted: 26 February 2019; Published: 2 March 2019
+Bat Coronaviruses in China
+Yi Fan 1,2 , Kai Zhao 1,2, Zheng-Li Shi 1,2 and Peng Zhou 1,2,*
+1 CAS Key Laboratory of Special Pathogens and Biosafety,Wuhan Institute of Virology, Chinese Academy of
+Sciences, Wuhan 430071, China; yifanfs0224@163.com (Y.F.); chiukal@163.com (K.Z.);
+zlshi@wh.iov.cn (Z.-L.S.)
+2 University of Chinese Academy of Sciences, Beijing 100049, China
+* Correspondence: peng.zhou@wh.iov.cn
+__________
+_______
+Abstract: During the past two decades, three zoonotic coronaviruses have been identified as the cause of large-scale disease outbreaks–Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS), and Swine Acute Diarrhea Syndrome (SADS). SARS and MERS
+emerged in 2003 and 2012, respectively, and caused a worldwide pandemic that claimed  housands of human lives, while SADS struck the swine industry in 2017. They have common  haracteristics, such as they are all highly pathogenic to humans or livestock, their agents originated from bats, and two of them originated in China. Thus, it is highly likely that future SARS- or MERS-like coronavirus outbreaks will originate from bats, and there is an increased probability that this will occur in China.
+Therefore, the investigation of bat coronaviruses becomes an urgent issue for the detection of early warning signs, which in turn minimizes the impact of such future outbreaks in China. The purpose of the review is to summarize the current knowledge on viral diversity, reservoir hosts, and the geographical distributions of bat coronaviruses in China, and eventually we aim to predict virus hotspots and their cross-species transmission potential.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+January 24, 2020
+Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+Chaolin Huang*, Yeming Wang*, Xingwang Li*, Lili Ren*, Jianping Zhao*, Yi Hu*, Li Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie,
+Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang†, Bin Cao†
+Summary
+Background A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.
+Lancet 2020; 395: 497–506
+Published Online
+January 24, 2020
+https://doi.org/10.1016/
+S0140-6736(20)30183-5
+This online publication has been
+corrected. The corrected version
+first appeared at thelancet.com
+on January 30, 2020
+Results
+By Jan 2, 2020, 41 admitted hospital patients were identified as laboratory-confirmed 2019-nCoV infection in Wuhan. 20 [49%]) of the 2019-nCoV-infected patients were aged 25–49 years, and 14 (34%) were aged 50–64 years (figure 1A). The median age of the patients was 49・0 years (IQR 41・0–58・0; table 1). In our cohort of the first 41 patients as of Jan 2, no children or adolescents were infected. Of the 41 patients, 13 (32%) were admitted to the ICU because they required high-flow nasal cannula or higher-level oxygen support measures to correct hypoxaemia.
+Most of the infected patients were men (30 [73%]); less than half had underlying diseases (13 [32%]), including diabetes (eight [20%]), hypertension (six [15%]), and cardiovascular disease (six [15%]). 27 (66%) patients had direct exposure to Huanan seafood market (figure 1B). Market exposure was similar between the patients with ICU care (nine [69%]) and those with non-ICU care (18 [64%]). The symptom onset date of the first patient identified was Dec 1, 2019. None of his family members developed fever or any respiratory symptoms. No epidemiological link was found between the first patient and later cases. The first fatal case, who had continuous exposure to the market, was admitted to hospital because of a 7-day history of fever, cough, and dyspnoea. 5 days after illness onset, his wife, a 53-year-old woman who had no known history of exposure to the market, also presented with pneumonia and was hospitalised in the isolation ward.
+ 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Potential Factors Influencing Repeated SARS Outbreaks in China
+Zhong Sun 1 , Karuppiah Thilakavathy 1,2 , S. Suresh Kumar 2,3, Guozhong He 4,* and
+Shi V. Liu 5,*
+1 Department of Biomedical Sciences, Faculty of Medicine & Health Sciences, University Putra Malaysia, UPM Serdang 43400, Selangor, Malaysia; cifer03@gmail.com (Z.S.); thilathy@upm.edu.my (K.T.)
+2 Genetics and Regenerative Medicine Research Group, Faculty of Medicine & Health Sciences, University Putra Malaysia, UPM Serdang 43400, Selangor, Malaysia; suresh@upm.edu.my
+3 Department of Medical Microbiology and Parasitology, University Putra Malaysia, UPM Serdang 43400, Selangor, Malaysia
+4 Institute of Health, Kunming Medical University, Kunming 650500, China
+5 Eagle Institute of Molecular Medicine, Apex, NC 27523, USA
+* Correspondence: guozhong_he@vip.sina.com (G.H.); SVL8EPA@gmail.com (S.V.L.)
+Received: 28 January 2020; Accepted: 29 February 2020; Published: 3 March 2020
+Epidemiological investigations showed that 13 of the first 41 patients diagnosed with SARS-CoV-2 had nothing to do with Huanan Seafood Market [45]. Another survey of SARS-2 found that no bats were on sale in Huanan Seafood Market [52].
+
+With so many bats concentrated into a local area, the spreading of viruses by bats might be much wider than just being restricted to one wildlife trading place such as the Huanan Seafood Market. The viruses might have lived in this big “incubation bed” for some time and achieved some mutations before jumping on to the final hosts—human beings.
+
+For both SARS outbreaks, bat was suspected as a natural host for SARS-CoVs. It was claimed that SARS-CoV virus originated from horseshoe bats in a cave of Yunnan Province [22].
+In 2005, SARS-like COVs (SL-CoVs) were found in wild Chinese horseshoe bats (Rhinolophus
+sinicus) collected from a cave in Yunnan Province of China [22]. In 2013, live SL-CoV was isolated from Vero E6 cells incubated in bat feces [23]. The isolated virus showed more than 95% genome sequence identity with human and civet SARS-CoVs. SL-CoV possesses the ability to infiltrate cells using its S protein to combine with ACE2 receptors [24]. This observation indicated that SARS-CoV originated from Chinese horseshoe bats and that SL-CoV isolated from bats poses a potential threat to humans without the involvement of any intermediate hosts. Between 2015 and 2017, 334 bats were collected from Zhoushan city, Zhejiang Province, China. A total of 26.65% of those bats were detected as having a conserved coronaviral protein RNA-dependent RNA polymerase (RdRp). Full genomic analyses of two SL-CoVs (bat-SL-CoV ZC45 and bat-SL-CoV ZXC21) showed 81% nucleotide identity with human/civet SARS CoVs. These viruses reproduced and caused disease in suckling rats, with virus-like particles being observed in the brains of suckling rats by electron microscopy [25]. Thus, prior to 2018, bats collected in some areas of China have been shown to carry CoVs capable of directly infecting humans.
+
+An early guess and also a dominant view expressed in published reports assumes that SARS-2
+outbreak started from a single site inWuhan, namely, Huanan Seafood Market [46]. However, the only
+source of bats that have been publicly identified as carrying virus phylogenetically close to SARS-CoV-2
+is far away from Wuhan in Zhoushan, Zhejiang. Zhoushan is also one of the largest breeding bases in
+Zhejiang for bamboo rat, which is suspected as one of the intermediate hosts for SARS-CoV [38,47].
+Thus, in order for these bats and/or rats to pass the virus to humans, they must have first been able
+to migrate or be moved to Wuhan and also must have carried viruses that actually achieved mutations
+for a_ording the capability of infecting human beings.
+Bats have an ability to migrate more than 1000 kilometers and tend to fly to insect-rich areas [48].
+Abundant insects are often found in wildlife market areas due to their selling of various animals.
+Animal carcasses also make these places suitable habitats for bats. Bats are also attracted to artificial
+green lights and tend to gather around green light areas [49].
+In agreement with these natural characteristics, bats have been found to inhabit locations near
+Yangtze River Bridge, which has rows of green lights that are tuned on for all of the night-time.
+Incidentally, Huanan Seafood Market is only 20 minutes away from this bridge. Bats gathered near the
+Yangtze River Bridge might have released the virus and even infected intermediate hosts for some
+time. The cold and dry winter helped viruses to survive in the environment and eventually found
+some ways to cross the species barrier, a phenomenon known as “viral chatter” [50]. The increased
+vulnerability of human beings in winter time and the increased human exposure to wild animals
+during holidays made infection to SARS-COV-2 more likely.
+At present, there is no evidence to prove the source of bamboo rats in Huanan Seafood Market.
+Therefore, there are two possible places for bamboo rat be infected with SARS-COV-2.
+ 
+At present, there is no evidence to prove the source of bamboo rats in Huanan Seafood Market. Therefore, there are two possible places for bamboo rat be infected with SARS-COV-2.
+
+The first site might be the bat habitat in Zhoushan. Due to the promotion of bamboo rat breeding by Huanong Brothers in 2018, the amount of bamboo rat breeding and market demand increased significantly [51]. Since the market demand increases, the new bamboo rat breeding base may not be far from the local habitat of SARS-COV-2-carrying bats. The model of SARS-COV-2 transmission, similar to Nipah virus, is that farms are built around bat habitats, causing bats to pass the virus to animals through saliva, urine, and feces [30]. At the same time, because Zhejiang is a natural habitat for bamboo rats, it is possible that some farms directly introduced wild bamboo rats, which were already infected with SARS-COV-2 virus. For the above reasons, the bamboo rats carrying SARS-COV-2 virus were transported from the infected place to the incident site in the same way that civets spread SARS-CoV [32].
+
+The second site is Wuhan, the place of the SARS-COV-2 outbreak, and it is also the end point
+for some bat migration. Zhengli Shi’s team fromWuhan Institute of Virology, Chinese Academy of Sciences, isolated a live SARS-like strain in the feces of horseshoe bats [23]. This suggests that the way the bats spread the virus is not only via direct contact, but also through feces. Therefore, when bats carrying SARS-COV-2 virus forage at Huanan Seafood Market, they may pass the virus directly or indirectly to intermediate hosts. However, to confirm this scenario, it is necessary to find wild bats in Wuhan and its neighboring areas that carry CoVs identical to those isolated from various SARS-2 patients. It is also necessary to find a mechanism for the very quick outbreak in such a wide area by a natural source of SARS-CoV-2.
+
+Multiple Outbreak Sites and Single Unique Source of Virus Many observations have shown the outbreak of SARS-2 actually started from multiple sites, instead of just a single site, as originally reported [27,52,53,55]. In evaluating the epidemiological patterns of SARS-2 within Wuhan, surroundingWuhan, and remote fromWuhan, it appears that the incidences of SARS-2 have some distinct patterns. Although the remotely occurring SARS-2 usually have a human–human linkage and can be traced to a single source of infection, someWuhan cases and the surrounding cases in Hubei Province still lack reliable sources of infection. Amazingly, most of the SARS-2 patients can be traced to a single unique etiological agent, SARS-CoV-2. How could this likely single source of virus quickly infect so many people in such large geographic area? This is a question that is di_cult to answer now, but must be answered in future.
+
+A study on the genome sequence of diseased pangolins smuggled from Malaysia to China found that pangolins carry coronavirus, suggesting that pangolins may be intermediate hosts for SARS-COV-2 [35]. Pangolins seized in anti-smuggling operations in Guangxi and Guangdong of southern China were detected with multiple CoV linages with 85.5–92.4% genome sequence similarity to those of SARS-CoV-2 [36]. More interestingly, CoVs collected from caged pangolin obtained from an unspecified research organization showed over 99% genome sequence identity to those of SARS-COV-2 [37].
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+February 1, 2020| Last modified on February 27th, 2020 at 3:24 pm,
+Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag
+By
+
+Note: Authors of “uncanny” 2019-nCoV preprint have voluntarily withdrawn the preprint: “It was not our intention to feed into the conspiracy theories…we appreciate the criticisms… and will get back with a revised version.”
+Prashant Pradhan, Ashutosh Kumar Pandey, Akhilesh Mishra, Parul Gupta, Praveen Kumar Tripathi, Manoj Balakrishnan Menon, James Gomes, Perumal Vivekanandan and Bishwajit Kundu, Kusuma School of biological sciences, Indian Institute of Technology, New Delhi-110016, India. Acharya Narendra Dev College, University of Delhi, New Delhi-110019, India
+Abstract
+We are currently witnessing a major epidemic caused by the 2019 novel coronavirus (2019-nCoV). The evolution of 2019-nCoV remains elusive. We found 4 insertions in the spike glycoprotein (S) which are unique to the 2019-nCoV and are not present in other coronaviruses. Importantly, amino acid residues in all the 4 inserts have identity or similarity to those in the HIV-1 gp120 or HIV-1 Gag. Interestingly, despite the inserts being discontinuous on the primary amino acid sequence, 3D-modelling of the 2019-nCoV suggests that they converge to constitute the receptor binding site. The finding of 4 unique inserts in the 2019-nCoV, all of which have identity /similarity to amino acid residues in key structural proteins of HIV-1 is unlikely to be fortuitous in nature. This work provides yet unknown insights on 2019-nCoV and sheds light on the evolution and pathogenicity of this virus with important implications for diagnosis of this virus.
+
+extract
+Interestingly, all the 4 insertions were absolutely (100%) conserved in all the available 2019-nCoV sequences analyzed 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Preprint · February 2020
+DOI: 10.13140/RG.2.2.21799.29601
+All content following this page was uploaded by Botao Xiao on 06 February 2020.
+Publication disappeared soon after the preprint
+The possible origins of 2019-nCoV coronavirus
+Botao Xiao1,2* and Lei Xiao3
+1 Joint International Research Laboratory of Synthetic Biology and Medicine, School
+of Biology and Biological Engineering, South China University of Technology,
+Guangzhou 510006, China
+2 School of Physics, Huazhong University of Science and Technology, Wuhan
+430074, China
+3 Tian You Hospital, Wuhan University of Science and Technology, Wuhan 430064,
+
+The 2019-nCoV coronavirus has caused an epidemic of 28,060 laboratory-confirmed
+infections in human including 564 deaths in China by February 6, 2020. Two descriptions
+of the virus published on Nature this week indicated that the genome sequences from
+patients were 96% or 89% identical to the Bat CoV ZC45 coronavirus originally found in Rhinolophus affinis 1,2. It was critical to study where the pathogen came from and how it
+passed onto human.
+
+An article published on The Lancet reported that 41 people in Wuhan were found to
+have the acute respiratory syndrome and 27 of them had contact with Huanan Seafood
+Market 3. The 2019-nCoV was found in 33 out of 585 samples collected in the market after
+the outbreak. The market was suspicious to be the origin of the epidemic, and was shut
+down according to the rule of quarantine the source during an epidemic.
+
+The bats carrying CoV ZC45 were originally found in Yunnan or Zhejiang province,
+both of which were more than 900 kilometers away from the seafood market. Bats were
+normally found to live in caves and trees. But the seafood market is in a densely-populated
+district of Wuhan, a metropolitan of ~15 million people. The probability was very low for the
+bats to fly to the market. According to municipal reports and the testimonies of 31 residents
+and 28 visitors, the bat was never a food source in the city, and no bat was traded in the
+market. There was possible natural recombination or intermediate host of the coronavirus,
+yet little proof has been reported.
+
+Was there any other possible pathway? We screened the area around the seafood
+market and identified two laboratories conducting research on bat coronavirus. Within ~280
+meters from the market, there was the Wuhan Center for Disease Control & Prevention
+(WHCDC) (Figure 1, from Baidu and Google maps). WHCDC hosted animals in laboratories
+for research purpose, one of which was specialized in pathogens collection and identification 4-6. In one of their studies, 155 bats including Rhinolophus affinis were captured in Hubei
+province, and other 450 bats were captured in Zhejiang province 4. The expert in collection
+was noted in the Author Contributions (JHT). Moreover, he was broadcasted for collecting
+viruses on nation-wide newspapers and websites in 2017 and 2019 7,8. He described that
+he was once by attacked by bats and the blood of a bat shot on his skin. He knew the extreme danger of the infection so he quarantined himself for 14 days 7. In another accident, he quarantined himself again because bats peed on him. He was once thrilled for capturing a bat carrying a live tick 8.
+Surgery was performed on the caged animals and the tissue samples were collected for
+DNA and RNA extraction and sequencing 4, 5. The tissue samples and contaminated trashes
+were source of pathogens. They were only ~280 meters from the seafood market. The
+WHCDC was also adjacent to the Union Hospital (Figure 1, bottom) where the first group
+of doctors were infected during this epidemic. It is plausible that the virus leaked around
+and some of them contaminated the initial patients in this epidemic, though solid proofs
+are needed in future study.
+The second laboratory was ~12 kilometers from the seafood market and belonged to
+Wuhan Institute of Virology, Chinese Academy of Sciences 1, 9, 10. This laboratory
+reported that the Chinese horseshoe bats were natural reservoirs for the severe acute
+respiratory syndrome coronavirus (SARS-CoV) which caused the 2002-3 pandemic 9.
+The principle investigator participated in a project which generated a chimeric virus using
+the SARS-CoV reverse genetics system, and reported the potential for human 
+emergence 10. A direct speculation was that SARS-CoV or its derivative might leak from
+the laboratory.
+In summary, somebody was entangled with the evolution of 2019-nCoV coronavirus.
+In addition to origins of natural recombination and intermediate host, the killer coronavirus
+probably originated from a laboratory in Wuhan. Safety level may need to be reinforced in
+high risk biohazardous laboratories. Regulations may be taken to relocate these laboratories far away from city center and other densely populated places.
+
+Contributors
+BX designed the comment and performed literature search. All authors performed data
+acquisition and analysis, collected documents, draw the figure, and wrote the papers.
+Acknowledgements
+This work is supported by the National Natural Science Foundation of China (11772133,
+11372116).
+Declaration of interests
+All authors declare no competing interests.
+References
+1. Zhou P, Yang X-L, Wang X-G, et al. A pneumonia outbreak associated with a new
+coronavirus of probable bat origin. Nature 2020. https://doi.org/10.1038/s41586-020-2012-7.
+2. Wu F, Zhao S, Yu B, et al. A new coronavirus associated with human respiratory disease
+in China. Nature 2020. https://doi.org/10.1038/s41586-020-2008-3.
+3. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel
+coronavirus in Wuhan, China. The Lancet 2019. https://doi.org/10.1016/S0140-
+6736(20)30183-5.
+4. Guo WP, Lin XD, Wang W, et al. Phylogeny and origins of hantaviruses harbored by bats,
+insectivores, and rodents. PLoS pathogens 2013; 9(2): e1003159.
+5. Lu M, Tian JH, Yu B, Guo WP, Holmes EC, Zhang YZ. Extensive diversity of rickettsiales
+bacteria in ticks from Wuhan, China. Ticks and tick-borne diseases 2017; 8(4): 574-80.
+6. Shi M, Lin XD, Chen X, et al. The evolutionary history of vertebrate RNA viruses. Nature
+2018; 556(7700): 197-202.
+7. Tao P. Expert in Wuhan collected ten thousands animals: capture bats in mountain at night.
+Changjiang Times 2017.
+8. Li QX, Zhanyao. Playing with elephant dung, fishing for sea bottom mud: the work that will
+change China's future. thepaper 2019.
+9. Ge XY, Li JL, Yang XL, et al. Isolation and characterization of a bat SARS-like coronavirus
+that uses the ACE2 receptor. Nature 2013; 503(7477): 535-8.
+10. Menachery VD, Yount BL, Jr., Debbink K, et al. A SARS-like cluster of circulating bat
+coronaviruses shows potential for human emergence. Nature medicine 2015; 21(12): 1508-13.
+Figure 1. The Huanan Seafood Market is close to the WHCDC (from Baidu and Google
+maps).
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Probable Pangolin Origin of SARS-CoV-2 Associated with the COVID-19 Outbreak
+Zhang et al., 2020, Current Biology 30, 1346–1351
+April 6, 2020 ª 2020 Elsevier Inc.
+https://doi.org/10.1016/j.cub.2020.03.022
+Graphical Abstract
+
+Highlights
+d Pangolin-CoV is 91.02% identical to SARS-CoV-2 at the whole-genome level
+d Pangolin-CoV is the second closest relative of SARS-CoV-2 behind RaTG13
+d Five key amino acids in the RBD are consistent between Pangolin-CoV and SARS-CoV-2
+d Only SARS-CoV-2 contains a potential cleavage site for furin proteases
+Authors
+Tao Zhang, Qunfu Wu, Zhigang Zhang
+Correspondence
+zhangzhigang@ynu.edu.cn
+In Brief
+The emerging SARS-coronavirus 2 (SARS-CoV-2) poses tremendous threat to human health. Zhang, Wu et al. show that like bats, pangolin species are a natural reservoir of SARS-CoV-2-like CoVs. This finding might help to find the intermediate host of SARS-CoV-2 for blocking a global coronavirus pandemic.
+Highlights
+d Pangolin-CoV is 91.02% identical to SARS-CoV-2 at the whole-genome level
+d Pangolin-CoV is the second closest relative of SARS-CoV-2  behind RaTG13
+d Five key amino acids in the RBD are consistent between Pangolin-CoV and SARS-CoV-2
+d Only SARS-CoV-2 contains a potential cleavage site for furin proteases
+
+Conclusion
+Based on published metagenomic data, this study provides the first report on a potential closely related kin (Pangolin-CoV) of SARS-CoV-2, which was discovered from dead Malayan pangolins after extensive rescue efforts. Aside from RaTG13, the Pangolin-CoV is the CoV most closely related to SARS-CoV-2. Due to unavailability of the original sample, we did not perform further experiments to confirm our findings, including PCR validation, serological detection, or even isolation of the virus particles. Our discovered Pangolin-CoV genome showed 91.02% nucleotide identity with the SARS-CoV-2 genome. However, whether pangolin species are good candidates for SARS-CoV-2 origin is still under debate. Considering the wide spread of SARSr-CoVs in natural reservoirs, such as bats, camels, and
+pangolins, our findings would be meaningful for finding novel intermediate SARS-CoV-2 hosts to block interspecies transmission.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Published online: 3 February 2020 SHI ZHENGLI
+A pneumonia outbreak associated with a new coronavirus of probable bat origin
+Peng Zhou1,5, Xing-Lou Yang1,5, Xian-Guang Wang2,5, Ben Hu1, Lei Zhang1, Wei Zhang1,
+Hao-Rui Si1,3, Yan Zhu1, Bei Li1, Chao-Lin Huang2, Hui-Dong Chen2, Jing Chen1,3, Yun Luo1,3, Hua Guo1,3, Ren-Di Jiang1,3, Mei-Qin Liu1,3, Ying Chen1,3, Xu-Rui Shen1,3, Xi Wang1,3, Xiao-Shuang Zheng1,3, Kai Zhao1,3, Quan-Jiao Chen1, Fei Deng1, Lin-Lin Liu4, Bing Yan1, Fa-Xian Zhan4, Yan-Yi Wang1, Geng-Fu Xiao1 & Zheng-Li Shi1 ✉
+https://doi.org/10.1038/s41586-020-2012-7
+Received: 20 January 2020
+Accepted: 29 January 2020
+
+Since the outbreak of severe acute respiratory syndrome (SARS) 18 years ago, a large number of SARS-related coronaviruses (SARSr-CoVs) have been discovered in their natural reservoir host, bats1–4. Previous studies have shown that some bat SARSr-CoVs have the potential to infect humans5–7. Here we report the identification and characterization of a new coronavirus (2019-nCoV), which caused an epidemic of acute respiratory syndrome in humans in Wuhan, China. The epidemic, which started on 12 December 2019, had caused 2,794 laboratory-confirmed infections including 80 deaths by 26 January 2020. Full-length genome sequences were obtained from five patients at an early stage of the outbreak. The sequences are almost identical and share 79.6% sequence identity to SARS-CoV.  Furthermore, we show that 2019-nCoV is  96% identical at the whole-genome level to a bat coronavirus. Pairwise protein sequence  analysis of seven conserved non-structural proteins domains show that this virus belongs to the species of SARSr-CoV. In addition, 2019-nCoV virus isolated from the bronchoalveolar lavage fluid of a critically ill patient could be neutralized by sera from several patients. Notably, we confirmed that 2019-nCoV uses the same cell entry receptor—angiotensin converting enzyme II (ACE2)—as SARS-CoV.
+
+(RdRp) from a bat coronavirus (BatCoV RaTG13)—which was previously detected in Rhinolophus affinis from Yunnan province—showed high sequence identity to 2019-nCoV. We carried out full-length sequencing on this RNA sample (GISAID accession number EPI_ISL_402131). Simplot analysis showed that 2019-nCoV was highly similar throughout the genome to RaTG13 (Fig. 1c), with an overall genome sequence identity of 96.2%.
+
+xxxxxxxxxxxxxxx
